@@ -1,6 +1,5 @@
 package deques;
 
-/** A buggy array implementation of the Deque interface. */
 public class ArrayDeque<T> extends AbstractDeque<T> {
     private T[] data;
     private int front;
@@ -87,8 +86,6 @@ public class ArrayDeque<T> extends AbstractDeque<T> {
     }
 
     public String toString() {
-        // We use a StringBuilder since it concatenates strings more efficiently
-        // than using += in a loop
         StringBuilder output = new StringBuilder();
         if (size >= 0) {
             int counter = 0;
