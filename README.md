@@ -116,7 +116,7 @@ Project Link: [https://github.com/zRustyz/Data-Structures-Algos](https://github.
 [forks-url]: https://github.com/zRustyz/Data-Structures-Algos/network/members
 [stars-shield]: https://img.shields.io/github/stars/zRustyz/Data-Structures-Algos.svg?style=for-the-badge
 [stars-url]: https://github.com/zRustyz/Data-Structures-Algos/stargazers
-[issues-shielde]: https://img.shields.io/github/issues/zRustyz/Data-Structures-Algos.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/zRustyz/Data-Structures-Algos.svg?style=for-the-badge
 [issues-url]: https://github.com/zRustyz/Data-Structures-Algos/issues
 [license-shield]: https://img.shields.io/github/license/zRustyz/Data-Structures-Algos.svg?style=for-the-badge
 [license-url]: https://github.com/zRustyz/Data-Structures-Algos/blob/master/LICENSE.txt
