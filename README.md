@@ -69,13 +69,10 @@ This repo contains my implementations of different data structures and algorithm
       </ul>
     </li>
     <li>
-      <a href="#about-the-project">Algorithms</a>
+      <p>Algorithms</p>
       <ul>
         <li><a href="maps/ChainedHashMap.java">Hashing</a></li>
         <li><a href="dijkstra's algo & seam carving/DijkstraShortestPathFinder">Dijkstra's Algorithm</a></li>
-
-      </ul>
-    </li>
   </ol>
 
 
@@ -113,16 +110,16 @@ Project Link: [https://github.com/zRustyz/Data-Structures-Algos](https://github.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/zRustyz/fitness-web-app.svg?style=for-the-badge
-[contributors-url]: https://github.com/zRustyz/fitness-web-app/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/zRustyz/fitness-web-app.svg?style=for-the-badge
-[forks-url]: https://github.com/zRustyz/fitness-web-app/network/members
-[stars-shield]: https://img.shields.io/github/stars/zRustyz/fitness-web-app.svg?style=for-the-badge
-[stars-url]: https://github.com/zRustyz/fitness-web-app/stargazers
-[issues-shield]: https://img.shields.io/github/issues/zRustyz/fitness-web-app.svg?style=for-the-badge
-[issues-url]: https://github.com/zRustyz/fitness-web-app/issues
-[license-shield]: https://img.shields.io/github/license/zRustyz/fitness-web-app.svg?style=for-the-badge
-[license-url]: https://github.com/zRustyz/fitness-web-app/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/zRustyz/Data-Structures-Algos.svg?style=for-the-badge
+[contributors-url]: https://github.com/zRustyz/Data-Structures-Algos/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/zRustyz/Data-Structures-Algos.svg?style=for-the-badge
+[forks-url]: https://github.com/zRustyz/Data-Structures-Algos/network/members
+[stars-shield]: https://img.shields.io/github/stars/zRustyz/Data-Structures-Algos.svg?style=for-the-badge
+[stars-url]: https://github.com/zRustyz/Data-Structures-Algos/stargazers
+[issues-shielde]: https://img.shields.io/github/issues/zRustyz/Data-Structures-Algos.svg?style=for-the-badge
+[issues-url]: https://github.com/zRustyz/Data-Structures-Algos/issues
+[license-shield]: https://img.shields.io/github/license/zRustyz/Data-Structures-Algos.svg?style=for-the-badge
+[license-url]: https://github.com/zRustyz/Data-Structures-Algos/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/russellcliu
 [product-screenshot]: images/screenshot.png
