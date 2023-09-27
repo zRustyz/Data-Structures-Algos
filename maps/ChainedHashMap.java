@@ -4,25 +4,14 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.Map;
 import java.util.NoSuchElementException;
-//import java.util.Objects;
 
-/**
- * @see AbstractIterableMap
- * @see Map
- */
 public class ChainedHashMap<K, V> extends AbstractIterableMap<K, V> {
     private static final double DEFAULT_RESIZING_LOAD_FACTOR_THRESHOLD = .75;
     private static final int DEFAULT_INITIAL_CHAIN_COUNT = 5;
     private static final int DEFAULT_INITIAL_CHAIN_CAPACITY = 3;
 
-    /*
-    Warning:
-    You may not rename this field or change its type.
-    We will be inspecting it in our secret tests.
-     */
-    AbstractIterableMap<K, V>[] chains;
 
-    // You're encouraged to add extra fields (and helper methods) though!
+    AbstractIterableMap<K, V>[] chains;
 
     private double resizingLF;
     private int chainCapacity;
@@ -140,7 +129,6 @@ public class ChainedHashMap<K, V> extends AbstractIterableMap<K, V> {
 
     @Override
     public Iterator<Map.Entry<K, V>> iterator() {
-        // Note: you won't need to change this method (unless you add more constructor parameters)
         return new ChainedHashMapIterator<>(this.chains);
     }
 
@@ -175,12 +163,9 @@ public class ChainedHashMap<K, V> extends AbstractIterableMap<K, V> {
         return 0;
     }
 
-    /*
-    See the assignment webpage for tips and restrictions on implementing this iterator.
-     */
+
     private static class ChainedHashMapIterator<K, V> implements Iterator<Map.Entry<K, V>> {
         private AbstractIterableMap<K, V>[] chains;
-        // You may add more fields and constructor parameters
         private int chainIndex = -1;
         private Iterator<Entry<K, V>> itr = Collections.emptyIterator();
 

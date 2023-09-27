@@ -34,10 +34,9 @@
     <img src="img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Data Structures and Algorithms</h3>
 
   <p align="center">
-    project_description
     <br />
     <a href="https://github.com/zRustyz/Data-Structures-Algos"><strong>Explore the docs »</strong></a>
     <br />
@@ -64,15 +63,15 @@ This repo contains my implementations of different data structures and algorithm
       <p>Data Structures</p>
       <ul>
         <li><a href="deques/">Deques</a></li>
-        <li><a href="maps/ChainedHashMap.java">Hash Maps</a></li>
-        <li><a href="heaps/ArrayHeapMinPQ.java">Heaps</a></li>
+        <li><a href="maps/">Hash Maps</a></li>
+        <li><a href="heaps/">Heaps</a></li>
       </ul>
     </li>
     <li>
       <p>Algorithms</p>
       <ul>
         <li><a href="maps/ChainedHashMap.java">Hashing</a></li>
-        <li><a href="dijkstra's algo & seam carving/DijkstraShortestPathFinder">Dijkstra's Algorithm</a></li>
+        <li><a href="dijkstra's algo & seam carving/DijkstraShortestPathFinder.java">Dijkstra's Algorithm</a></li>
   </ol>
 
 
